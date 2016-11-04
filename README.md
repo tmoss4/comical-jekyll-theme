@@ -1,3 +1,5 @@
+This will be the template for TCPE
+
 comical-jekyll-theme
 =============
 Live Demo [HERE](http://chrisanthropic.github.io/comical-jekyll-theme/)
